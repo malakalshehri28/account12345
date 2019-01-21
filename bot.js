@@ -8,16 +8,10 @@ client.user.setPresence({
   status: 'dnd',
   game: { 
      type: 0,
-     name: 'Team R7',
+     name: 'FAISAL',
      details: `مشغول`,
-     url: 'http://twitch.tv/Streammingg',
+     url: 'http://twitch.tv/idk',
      state: `كُن كما أنت فليتقبلك من يتقبلك`,
-    application_id: '281376075802476544',
-     assets: {
-        small_image: `366835431037337600`,
-        small_text: ' Take This ! ' ,
-        large_image: `370451271133429760`,
-        large_text: `FAISAL` }
 
   }
     });

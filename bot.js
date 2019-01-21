@@ -4,25 +4,25 @@ const client = new Discord.Client();
 
 
 client.on("ready", () => {
-console.log('By : faisal');
 client.user.setPresence({
   status: 'dnd',
   game: { 
      type: 0,
-     name: 'faisal',
-     details: `faisal`,
-     url: 'http://twitch.tv/idk',
-     state: `faisal`,
-    application_id: '377479790195769345',
+     name: 'Team R7',
+     details: `مشغول`,
+     url: 'http://twitch.tv/Streammingg',
+     state: `كُن كما أنت فليتقبلك من يتقبلك`,
+    application_id: '281376075802476544',
      assets: {
-        small_image: `377480550207717376`,
-        small_text: 'faisal',
-        large_image: `377480353259978752`,
-        large_text: `faisal` }
+        small_image: `366835431037337600`,
+        small_text: ' Take This ! ' ,
+        large_image: `370451271133429760`,
+        large_text: `FAISAL` }
 
   }
     });
 });
+
 
 
 

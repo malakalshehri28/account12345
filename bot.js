@@ -12,12 +12,7 @@ client.user.setPresence({
      details: `مشغول`,
      url: 'http://twitch.tv/idk',
      state: `كُن كما أنت فليتقبلك من يتقبلك`,
-    application_id: 'https://e.top4top.net/p_1116l74nc0.jpeg',
-     assets: {
-        small_image: `366835431037337600`,
-        small_text: ' Take This ! ' ,
-        large_image: `370451271133429760`,
-        large_text: FAISAL` }
+    
   }
     });
 });

@@ -8,10 +8,10 @@ client.user.setPresence({
   status: 'dnd',
   game: { 
      type: 0,
-     name: 'FAISAL',
+     name: 'Balfour / A39ar',
      details: `مشغول`,
      url: 'http://twitch.tv/idk',
-     state: `كُن كما أنت فليتقبلك من يتقبلك`,
+     state: `I do not care about anyone.`,
     
   }
     });

@@ -9,7 +9,7 @@ client.user.setPresence({
   game: { 
      type: 0,
      name: 'Balfour / A39ar',
-     details: `Team R7`,
+     details: `F9o`,
      url: 'http://twitch.tv/idk',
      state: `I do not care about anyone.`,
     

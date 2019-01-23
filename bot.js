@@ -8,8 +8,8 @@ client.user.setPresence({
   status: 'dnd',
   game: { 
      type: 0,
-     name: 'Balfour / A39ar',
-     details: `F9o`,
+     name: 'Off',
+     details: `مشغول`,
      url: 'http://twitch.tv/idk',
      state: `I do not care about anyone.`,
     

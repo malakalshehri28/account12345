@@ -8,10 +8,10 @@ client.user.setPresence({
   status: 'dnd',
   game: { 
      type: 0,
-     name: 'Off',
+     name: 'i do not care about anyone.',
      details: `مشغول`,
      url: 'http://twitch.tv/idk',
-     state: `I do not care about anyone.`,
+     state: `bbm:-222444`,
     
   }
     });

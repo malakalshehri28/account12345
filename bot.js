@@ -8,7 +8,7 @@ client.user.setPresence({
   status: 'dnd',
   game: { 
      type: 0,
-     name: 'i do not care about anyone.',
+     name: 'I Love My Friends Seriously',
      details: `مشغول`,
      url: 'http://twitch.tv/idk',
      state: `bbm:-222444`,

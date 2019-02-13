@@ -8,7 +8,7 @@ client.user.setPresence({
   status: 'dnd',
   game: { 
      type: 0,
-     name: 'A39ar , blo.',
+     name: 'Sometimes my Friends Open My Heart.',
      details: `مشغول لاحد يكلمني`,
      url: 'http://twitch.tv/idk',
      state: `bbm:-222444`,

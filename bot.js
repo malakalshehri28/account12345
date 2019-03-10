@@ -3,22 +3,16 @@ const client = new Discord.Client();
 
 
 
-client.on('guildMemberAdd', member => {
-  
-  const channel = member.guild.channels.find(ch => ch.name === 'pure');
- 
-  if (!channel) return;
-
-  channel.send(`Welcome to the server ❤`);
+client.on('guildMemberAdd',async member => {
+  if(member.guild.id !== '554343696368140303') return;
+  setTimeout(function(){
+  member.guild.channels.find(r => r.id === '551019141297995786').send('**Welcome To Server Pure:hearts:**');
+},1600);
 });
 
 
 
-client.on('ready', () => {
-  console.log(Logged in as ${client.user.tag}!);
-  client.user.setGame("#Pure.","https://www.twitch.tv/idk);
-});
-  
+
   
   
 client.login(process.env.BOT_TOKEN);

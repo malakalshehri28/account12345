@@ -14,4 +14,10 @@ client.on('guildMemberAdd', member => {
 
 
 
+client.on('ready', () => {
+  console.log(Logged in as ${client.user.tag}!);
+  client.user.setGame("#Pure.","https://www.twitch.tv/idk);
+});
+  
+  
 client.login(process.env.BOT_TOKEN);

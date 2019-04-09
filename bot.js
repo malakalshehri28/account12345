@@ -12,7 +12,8 @@ client.on('guildMemberAdd',async member => {
 
 
 
-client.user.setGame("رحمه الله عليك يا من دخلت قلبي ثم رحلت"), "https://www.twitch.tv/idk");
+client.user.setGame(`رحمك الله يا من دخلت قلبي ثم رحلت `,"http://twitch.tv//idk")
+});
   
   
 client.login(process.env.BOT_TOKEN);

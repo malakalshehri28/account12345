@@ -12,7 +12,20 @@ client.on('guildMemberAdd',async member => {
 
 
 
-client.user.setGame("رحمك الله يا من دخلت قلبي ثم رحلت ","http://twitch.tv//idk")
+client.on("ready", () => {
+client.user.setPresence({
+  status: 'dnd',
+  game: { 
+     type: 0,
+     name: 'رحمك الله يا من دخلت قلبي ثم رحلت ',
+     details: ``,
+     url: 'http://twitch.tv/idk',
+     state: ``,
+    application_id: '',
+     assets: {
+
+  }
+    });
 });
   
   

@@ -9,7 +9,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : AJ ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`رحمك الله يا من دخلت قلبي ثم رحلت`,"http://twitch.tv//idk")
+client.user.setGame(`ندعس على الحيه وندعس على الداب وندعس على خشم الردي لو تمادى`,"http://twitch.tv//idk")
 });
 
 

@@ -10,7 +10,7 @@ client.user.setPresence({
      type: 0,
      name: 'فيصل :) ',
      details: `فيصل`,
-     url: 'http://twitch.tv/Streammingg',
+     url: 'http://twitch.tv/idk',
      state: `فيصل`,
     application_id: '400955088052420610',
      assets: {

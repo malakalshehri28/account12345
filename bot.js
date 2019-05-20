@@ -14,9 +14,9 @@ client.user.setPresence({
      state: `فيصل`,
     application_id: '400955088052420610',
      assets: {
-        small_image: `366835431037337600`,
+        small_image: ``,
         small_text: ' فيصل ' ,
-        large_image: `370451271133429760`,
+        large_image: ``,
         large_text: `فيصل` }
 
   }

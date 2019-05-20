@@ -12,7 +12,7 @@ client.user.setPresence({
      details: `فيصل`,
      url: 'http://twitch.tv/Streammingg',
      state: `فيصل`,
-    application_id: '281376075802476544',
+    application_id: '400955088052420610',
      assets: {
         small_image: `366835431037337600`,
         small_text: ' فيصل ' ,

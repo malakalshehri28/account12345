@@ -1,28 +1,31 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
-
-
-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 client.on("ready", () => {
 client.user.setPresence({
-  status: 'dnd',
-  game: { 
+  status: 'online',
+  game: {
      type: 0,
-     name: 'فيصل :) ',
-     details: `فيصل`,
-     url: 'http://twitch.tv/idk',
-     state: `فيصل`,
-    application_id: '400955088052420610',
+     name: 'faisal',    
+     details: `faisal`,  
+     url: 'http://twitch.tv/Streammingg',
+     state: `faisal`,
+    application_id: '400955088052420610',     
      assets: {
-        small_image: ``,
-        small_text: ' فيصل ' ,
-        large_image: ``,
-        large_text: `فيصل` }
-
+        small_image: `421232881684316160`,
+        small_text: 'faisal' ,
+        large_image: `421233046612869120`,
+        large_text: `faisal` }
+ 
   }
     });
 });
-
 
 
 

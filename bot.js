@@ -14,7 +14,6 @@ client.user.setPresence({
      type: 0,
      name: 'faisal',    
      details: `faisal`,  
-     url: 'http://twitch.tv/Streammingg',
      state: `faisal`,
     application_id: '400955088052420610',     
      assets: {

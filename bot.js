@@ -1,31 +1,15 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
- 
- 
- 
- 
- 
- 
- 
-client.on("ready", () => {
-client.user.setPresence({
-  status: 'online',
-  game: {
-     type: 0,
-     name: 'faisal',    
-     details: `faisal`,  
-     state: `faisal`,
-    application_id: '400955088052420610',     
-     assets: {
-        small_image: `421232881684316160`,
-        small_text: 'faisal' ,
-        large_image: `421233046612869120`,
-        large_text: `faisal` }
- 
-  }
-    });
+var prefix = "#";
+client.on('ready', () => {
+   console.log(`----------------`);
+      console.log(`Desert Bot- Script By : AJ`);
+        console.log(`----------------`);
+      console.log(`ON ${client.guilds.size} Servers '     Script By : AJ ' `);
+    console.log(`----------------`);
+  console.log(`Logged in as ${client.user.tag}!`);
+client.user.setGame(`FAISAL`,"http://twitch.tv//idk")
 });
-
 
 
   

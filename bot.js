@@ -8,9 +8,9 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : faisal ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`nothing`,"http://twitch.tv//idk")
+client.user.setActivity('test', { type: 'PLAYING' })
+client.user.setStatus('idle')
 });
-
 
 
 

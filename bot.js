@@ -9,13 +9,13 @@ const client = new Discord.Client();
  
 client.on("ready", () => {
 client.user.setPresence({
-  status: 'online', //الحال
+  status: 'dnd', //الحال
   game: {
      type: 0,
-     name: 'WEEK_END 🔥',    
-     details: `🎈خميس ومالي خلق ازعل🎈`,  
-     url: 'http://twitch.tv/Streammingg',
-     state: `انا فوق السحاب هناك شوفوني ☁`,
+     name: 'hi',    
+     details: `hi2`,  
+     url: 'http://twitch.tv/idk',
+     state: `hi3`,
     application_id: '420956479747784715', //ايدي البوت اللي رافع عليه الصور
      assets: {
         small_image: `421232881684316160`, //ايدي الصوره الصغيره

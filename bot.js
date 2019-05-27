@@ -12,9 +12,10 @@ client.user.setstatus("idle");
 client.user.setGame("test");
 
 
-  }
-    });
+  
 });
+
+
 
 
 

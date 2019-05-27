@@ -14,7 +14,7 @@ client.user.setPresence({
      type: 0,
      name: 'hi',    
      details: `hi2`,  
-     url: 'http://twitch.tv/idk',
+     url: 'http://twitch.tv/Streammingg',
      state: `hi3`,
     application_id: '420956479747784715', //ايدي البوت اللي رافع عليه الصور
      assets: {

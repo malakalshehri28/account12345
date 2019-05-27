@@ -6,7 +6,6 @@ const client = new Discord.Client();
 
 
 client.user.setActivity('test', { type: 'PLAYING' })
-client.user.setStatus('idle')
 
   
 });

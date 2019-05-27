@@ -11,9 +11,6 @@ client.on('ready', () => {
 client.user.setActivity('test', { type: 'PLAYING' })
 client.user.setStatus('idle')
 
-  
-});
-
 
 
 
